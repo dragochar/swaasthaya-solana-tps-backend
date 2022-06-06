@@ -1,4 +1,4 @@
-## Backend for Swaasthaya
+## Backend for Swaasthaya (Solana TPS portion)
 
 To get started, clone this repo and cd into it.
 
